@@ -1,0 +1,6 @@
+##This is about Arch Linux.
+My current arch runs with i3wm (i3blocks, rofi, i3lock, ...) witch i use as my coding and programming OS.
+i3wm is pretty fast and it's cool if U can confiure it yourself.
+##I will add all files and configurations of arch linux in this directory.
+
+##Last edited by MAX::W3EM 2019/Aug/12 03:46 AM US:new york time zone.
