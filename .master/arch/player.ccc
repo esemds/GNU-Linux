@@ -1,0 +1,16 @@
+##This is all about audio and video players on Archlinux
+
+##1 Audio
+ncmpcpp
+moc
+cmus
+mp3blaster
+mplayer
+cantata
+
+##2 Video
+MPV
+VLC
+SMplayer
+baka-mplayer
+Parole media player
