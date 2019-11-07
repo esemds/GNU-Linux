@@ -1,0 +1,63 @@
+#CLI E-Mail clinet 
+mutt | neomutt | others
+
+##Packet Tracer
+Downloading packet tracer for networking
+
+##CPU-Z alternativ app for linux
+CPU-X on AUR (Arch user repository)
+
+##Youtube CLI client
+pacman -S mps-youtube (mpsyt)
+
+##Muisc visualizer
+glava
+cava
+
+##To make perfect linux apps 
+Glade :)
+
+##to use ssh ::
+1. ip addr show [on host machine to find ip address]
+2. ssh username@ip_address on guest machine
+
+##New installed and going to install and usefull packages:
+
+cava MUSIC visualizer
+
+1. nyx >> a tor network montoring utility
+2. tor *****
+3. torsocks
+4. elinks >> text web browser
+
+OMG!	gotop || a monitor tool 4 Linux
+
+##Disk usage analysing 
+ncdu || du to view files and folders >> analyze them by size
+bleachbit (perfect)
+rmlint (cool tool)
+filelight a kde tool 4 disk usage analisys
+
+There are lots of things i've installed them but i donno thier name :(
+
+what to do? "\_(*_-)
+
+to get file attributes and extended stuff:
+xattr, stat, file, lsattr, getfacl, chattr, ls -al, ...
+
+cd \ dvd tool graveman
+
+##Pyhton IDE ::
+eric
+thonny
+geany >> for most P.Ls
+anaconda	*****
+spyder		*****
+
+master tools:: eclipse netbeans 
+visual studio
+xcode
+...
+
+a perfect book for me on MACHINE LEARNING:
+https://books.google.com/books/?id=K7P36lKzI_QC
