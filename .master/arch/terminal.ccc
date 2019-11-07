@@ -1,14 +1,18 @@
 ##Top Terminal Emulators on arch linux
-
-termite		*****
+termite		
 terminator
 xfce4-terminal
 gnome-terminal
 konsole
-urxvt		*****
+urxvt		
 xterm
 terminlogy
 alacritty
 mate-terminal
-...
-
+uxterm
+kitty
+tilda
+guake
+yakuake
+sakura
+tilix
