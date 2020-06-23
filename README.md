@@ -11,7 +11,7 @@ Distro | Archlinux | Ubuntu | Kalilinux | termux*
 --- | --- | --- | --- | ---
 Type | Mnimal | Complete | Half-Comp | Tiny
 Level | Master | Master | So So | Newbie
-Usage | W3-Code | Desing-Art | Pen testing | Mobile
+Usage | W3-Code | Design-Art | Pen testing | Mobile
 
 
 #### my next level distros
